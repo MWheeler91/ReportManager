@@ -1,0 +1,12 @@
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\bin\Release\App_Data\ReportsDB.mdf
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\bin\Release\App_Data\ReportsDB_log.ldf
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\bin\Release\ReportManager.exe.config
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\bin\Release\ReportManager.exe
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\bin\Release\ReportManager.pdb
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.csprojAssemblyReference.cache
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.Form1.resources
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.Properties.Resources.resources
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.csproj.GenerateResource.cache
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.exe
+C:\Users\Matthew Wheeler\OneDrive\School\Spring 2021\CITC 2190 - Capstone\ProjectNew\ReportManager\ReportManager\obj\Release\ReportManager.pdb
